@@ -1,0 +1,10 @@
+2026-11-05 08:00:00 INFO Application started
+2026-11-05 08:00:05 INFO Configuration loaded
+2026-11-05 08:01:12 WARNING High memory usage detected
+2026-11-05 08:02:30 ERROR Database connection failed
+2026-11-05 08:02:45 ERROR Database connection failed
+2026-11-05 08:03:10 INFO Retrying database connection
+2026-11-05 08:03:15 INFO Database connection established
+2026-11-05 08:05:00 CRITICAL Payment service unavailable
+2026-11-05 08:06:20 WARNING API response time exceeded threshold
+2026-11-05 08:07:00 INFO Application running normally
